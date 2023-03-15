@@ -19,7 +19,7 @@ ZELDA3_SHA1 = {
   '229364A1B92A05167CD38609B1AA98F7041987CC' : ('fr', 'Legend of Zelda, The - A Link to the Past (France)'),
   'C1C6C7F76FFF936C534FF11F87A54162FC0AA100' : ('fr-c', 'Legend of Zelda, The - A Link to the Past (Canada)'),
   '7C073A222569B9B8E8CA5FCB5DFEC3B5E31DA895' : ('en',  'Legend of Zelda, The - A Link to the Past (Europe)'),
-  '461FCBD700D1332009C0E85A7A136E2A8E4B111E' : ('es',  'Spanish - https://www.romhacking.net/translations/2195/'),
+  '477b9697c8582c9ea941277be835b561ef54ad50' : ('es',  'Spanish - https://www.romhacking.net/translations/2190/'),
   '3C4D605EEFDA1D76F101965138F238476655B11D' : ('pl',  'Polish - https://www.romhacking.net/translations/5760/'),
   'D0D09ED41F9C373FE6AFDCCAFBF0DA8C88D3D90D' : ('pt',  'Portuguese - https://www.romhacking.net/translations/6530/'),
   'B2A07A59E64C498BC1B2F28728F9BF4014C8D582' : ('redux', 'English Redux - https://www.romhacking.net/translations/6657/'),
